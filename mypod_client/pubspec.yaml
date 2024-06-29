@@ -1,0 +1,9 @@
+name: mypod_client
+description: Starting point for a Serverpod client.
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  build_runner: ^2.4.9
+  serverpod_client: 2.0.1

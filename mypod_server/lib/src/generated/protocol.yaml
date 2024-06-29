@@ -1,0 +1,9 @@
+example:
+  - hello:
+myEcho:
+  - myEcho:
+todo:
+  - getAllTodos:
+  - addTodo:
+  - updateTodo:
+  - deleteTodo:
